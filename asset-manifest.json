@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df51cf94.css",
+    "main.js": "/static/js/main.40788bc8.js",
+    "static/media/Ana.svg": "/static/media/Ana.37da35b848cf26c972516ee379d8e0ab.svg",
+    "static/media/Instructor.png": "/static/media/Instructor.ce2b9c9d914ca6021e8d.png",
+    "static/media/Henk.svg": "/static/media/Henk.42b006e7891dee7cd56c94a94452c2ac.svg",
+    "static/media/Opi.svg": "/static/media/Opi.d8230261210ddc44c02fd4d6de18bb97.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/footer_logo.svg": "/static/media/footer_logo.301cc7a122cabb374944c7014f208ecc.svg",
+    "static/media/Logo.svg": "/static/media/Logo.45ec6902d279f985f28bdc4968c9dc3d.svg",
+    "static/media/Logo-questions-cards.svg": "/static/media/Logo-questions-cards.de13cb8da2a2d4f4686d26ae6b3eabb5.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/arow.svg": "/static/media/arow.1382256b80f9ec76854406419db069d5.svg",
+    "main.df51cf94.css.map": "/static/css/main.df51cf94.css.map",
+    "main.40788bc8.js.map": "/static/js/main.40788bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df51cf94.css",
+    "static/js/main.40788bc8.js"
+  ]
+}
